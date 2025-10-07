@@ -122,8 +122,8 @@ button.delete:hover { background: rgba(255,107,107,.08); border-color: rgba(255,
 /* Header */
 .app-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
 .user-info { display: flex; align-items: center; gap: 10px; }
-.logout-button { background: transparent; border: 1px solid var(--border); color: var(--text); padding: 8px 12px; border-radius: 8px; cursor: pointer; }
-.logout-button:hover { background: rgba(255,255,255,.04); }
+.logout-button { background: #ffffff; border: 1px solid var(--border); color: var(--text); padding: 8px 12px; border-radius: 8px; cursor: pointer; }
+.logout-button:hover { background: rgba(255, 255, 255, 0); }
 
 /* Tables & Sections added earlier already styled */
 
